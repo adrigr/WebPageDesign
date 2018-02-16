@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<!--Adrianna Rooks-->
+<!--Due February 23rd-->
+<html>
+	<head> <!--Panda Travel Project-->
+		<title> Acropolis of Athens </title>
+	</head>
+	<body bgcolor="lightyellow" text="black">
+<h1> Explore the Acropolis of Athens! </h1>
+<hr />
+<!--Telling readers why they should go here-->
+<h2> Why should you go? </h2>
+	<p><b>The Acropolis of Athens is a beautiful ancient citadel
+	located in Athens, Greece. It's an amazing site to see with your <br /> friends or family and
+	would be an amazing experience. The Acropolis is a very interesting piece <br />
+	of history. There is also more than the Acropolis to visit in Athens.</b></p>
+<!-- More information about the acropolis-->
+<h2> More Information </h2>
+	<p>To enter the Acropolis it costs 10-20 Euros (depending on the time of year) which <br />
+	is 12-24 dollars in us dollars.The Acropolis is home to one of the most famous <br />
+	buildings in the world, the Parthenon. The Acropolis is 490 feet tall and has <br />
+	a surface area of approximately 7 acres! </p>
+<!--Fake Quotes of peoples personal experiences-->
+<h2> Quotes of friends experiences </h2>
+	<quote> "Greece is such an amazing and beautiful place!"<i>-Heather Windon </i></quote><br />
+	<br />
+	<quote> "Looking at the acropolis was so amazing and intersting." <i>-James Doe </i></quote><br />
+	<br />
+	<quote> "I wasn't very into the trip at first but it was so 
+	gorgeous I would go back, easily." <i>-Abigail Winters</i></quote> 
+	<br />
+<!--Pretty photos of the acropolis-->
+<h3> Photos of the Acropolis</h3>
+	<figure>
+	<img src="AcropolisNight.jpg" width="500px" height="400px" alt="Acropolis at Night"/>
+	<figcaption> The Acropolis at night </figcaption>
+	</figure>
+
+	<figure>
+	<img src="AcropolisFarAway.jpg" width="500px" height="400px" alt="Acropolis Far Away">
+	<figcaption> The Acropolis from a distance </figcaption>
+	</figure>
+
+	<figure>
+	<img src="Acropoliswlights.jpg" width="600px" height="400px" alt="Acropolis with lights">
+	<figcaption> The Acropolis with it's beautiful lights on </figcaption>
+	</figure>
+<!--List of other things to do and places to vist in Athens-->
+<h3> Other Activities </h3>
+	<p><b>There are also other things and places to visit in Athens, Greece like the...</b></p>
+<ul>
+	<li> Acropolis Museum </li>
+	<li> Syntagma Square </li>
+	<li> Ancient Agora of Athens </li>
+	<li> Plaka </li>
+	<li> Temple of Olympian Zeus </li>
+</ul>
+<!--Contact Info-->
+<h2>Contact Information</h2>
+<p> Panda Travel Agency hopes you now want to explore <br />
+this beautiful city and all of its interesting landmarks. Contact us for <br /> 
+more information on getting there! </p>
+<!--Phone number, email, and more infromatiton on the Acropolis-->
+<p> Phone Number: 555-905-1982 </p>
+<a href= "mailto:info@pandatravel.org"> Email </a> <br />
+<a href= "http://whc.unesco.org/en/list/404" target="_blank"> Even more information! </a>
+	
+</body>
+</html>
+	
+	
+	
+	
+	
+	
+	
+	
+	

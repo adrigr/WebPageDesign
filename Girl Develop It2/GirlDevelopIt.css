@@ -1,0 +1,42 @@
+/* Adrianna Rooks
+GirlDevelopItProject
+Due 4/24/18
+*/
+
+
+/*Headings*/
+h1{
+font-family:cursive;
+text-decoration:underline;
+}
+
+h2{
+font-family:cursive;
+text-decoration:underline;
+}
+
+header{
+background-color:#ff6666;
+text-align: center;
+}
+
+/*body*/
+body { 
+BACKGROUND-COLOR: mistyrose;
+}
+
+/* Images */
+.photo {
+float: right;
+height: 200px
+width: 200px
+}
+
+/*links*/
+a:link {
+color: darkslateblue;
+}
+a:hover, a:focus {
+color: deeppink;
+font-size: 16pt
+}

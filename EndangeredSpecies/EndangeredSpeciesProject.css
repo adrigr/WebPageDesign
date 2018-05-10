@@ -1,0 +1,135 @@
+/* 
+Adrianna Rooks
+5/10/18
+Endangered Species Project
+*/
+
+* {
+margin: 0;
+padding: 0;
+}
+/*background color*/
+body {
+background-color: dimgrey;
+padding-left: 25px;
+padding-right: 25px;	  
+}
+
+/*headings*/
+h1 {
+text-align: center;
+font-family: Serif;
+font-size: 50pt;
+color: plum;
+border: 3px solid plum;
+padding: .2em;
+}
+
+h2 {
+font-family: sans-serif;
+color: plum;
+font-size: 20pt;
+padding: 1em;
+text-decoration: underline;
+}
+
+h3 {
+font-family: sans-serif;
+color: white;
+font-size: 16pt;
+padding: 1em;
+}
+
+/*paragraphs and lists*/
+p {
+font-family: Serif;
+color: white;
+font-size: 14pt;
+padding-left: 2em;
+padding: 1em;
+}
+
+ul {
+font-family: Serif;
+color: white;
+font-size:14pt;
+}
+
+li {
+font-family: Serif;
+color: white;
+font-size:14pt;
+}
+
+/*pictures of habitat and animal*/
+.map {
+float:left;
+height: 200px;
+width: 300px;
+padding: 1em;
+margin-right: 1em;
+border: 1px double plum
+}
+
+.photo1 {
+padding: 1em;
+border: 1px double plum;
+margin: 1em;
+height: 100px
+width: 200px
+}
+
+.photo2 {
+float:right;
+height: 150px;
+width: 250px;
+padding: 1em;
+margin-right: 1em;
+margin-top: 1em;
+margin-bottom: 1em;
+border: 1px double plum
+}
+
+.photo3 {
+float:left;
+height: 150px;
+width: 150px;
+padding: 1em;
+margin: 1em;
+border: 1px double plum
+}
+
+.photo4 {
+height: 200px;
+width: 300px;
+padding: 1em;
+margin: 1em;
+border: 1px double plum
+}
+
+.photo5 {
+float:right;
+height: 300px;
+width: 300px;
+padding: 1em;
+border: 1px double plum
+}
+
+/*link color before it is clicked*/
+a:link {
+color: plum;
+}
+
+#close {
+text-align: right;
+font-size: 18px;
+color: white;
+
+}
+/*footer*/
+footer {
+border-top: 3px solid plum;
+padding: 1em;
+}
+
+
